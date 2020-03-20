@@ -1,0 +1,2 @@
+# Fasttext
+fasttest modul
